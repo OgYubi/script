@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm OgYubi aka Marcel</h1>
-<h3 align="center">A decent developer from poland!</h3>
+<h1 align="center">Hi 👋, I'm OgYubi </h1>
+<h3 align="center">A decent developer from UK!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ogyubi&label=Profile%20views&color=0e75b6&style=flat" alt="ogyubi" /> </p>
 
